@@ -4,11 +4,11 @@
 - [2. **Game Overview**](#2-game-overview)
   - [2.1. **Objectives**](#21-objectives)
   - [2.2. **Components**](#22-components)
-- [3.  **Game Progression**](#3--game-progression)
+- [3. **Game Progression**](#3-game-progression)
 - [4. **Player Etiquette**](#4-player-etiquette)
 - [5. **Roles**](#5-roles)
 - [6. **Priority**](#6-priority)
-- [7. **Resolution** {#resolution}](#7-resolution-resolution)
+- [7. **Resolution**](#7-resolution)
 
 # 1. **Rules About Rules**
 
@@ -68,7 +68,7 @@ All Players will have access to or should be aware of these game components.
 
       1. This game is **Vanilla** and has no additional rules or mechanics.
 
-# 3.  **Game Progression**
+# 3. **Game Progression**
 
    1. The game takes place over a series of **Nights**. During a Night phase, Players may interact with one another and submit actions in their Role PM until its deadline, known as **Phase End.**
 
@@ -210,7 +210,7 @@ A Role consists of the following components: Role Name, Flavor Text, Attributes,
 
    2. An ability may have multiple priorities. If this is the case, it will be stated which part of an ability occurs at what priority.
 
-# 7. **Resolution** {#resolution}
+# 7. **Resolution**
 
 The following *notes* are general resolution guidelines on how specific roles will interact.
 
