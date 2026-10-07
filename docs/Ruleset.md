@@ -1,6 +1,16 @@
-**EiMM Ruleset (Ori .MD Version 10-6-2026)**
 
-# 1 **Rules About Rules**
+#EiMM Ruleset Overhaul Example Page
+- [1. **Rules About Rules**](#1-rules-about-rules)
+- [2. **Game Overview**](#2-game-overview)
+  - [2.1. **Objectives**](#21-objectives)
+  - [2.2. **Components**](#22-components)
+- [3.  **Game Progression**](#3--game-progression)
+- [4. **Player Etiquette**](#4-player-etiquette)
+- [5. **Roles**](#5-roles)
+- [6. **Priority**](#6-priority)
+- [7. **Resolution** {#resolution}](#7-resolution-resolution)
+
+# 1. **Rules About Rules**
 
    1. Official terminology is Capitalized. These terms will all be clearly defined and refer to the same thing each time they’re used. The **Rules** refer to the content of this comprehensive ruleset. The people responsible for running this instance of the game will be referred to as the **Host**(s), and have full authority over the Rules for this game.
 
@@ -12,9 +22,9 @@
 
       1. The Hosts reserve the right to punish any behavior not explicitly covered in these rules should they feel said behavior is detrimental to the game or server environment.
 
-# 2 **Game Overview**
+# 2. **Game Overview**
 
-## 2.1 **Objectives**
+## 2.1. **Objectives**
 
 In a **Classic EiMM**. Players begin as free agents and will win the game if they are one of the few remaining Players to survive through it. This is achieved through a series of rounds called **Nights**, in which players coordinate actions together in order to damage and deter other players. 
 
@@ -58,7 +68,7 @@ All Players will have access to or should be aware of these game components.
 
       1. This game is **Vanilla** and has no additional rules or mechanics.
 
-# 3 **Game Progression**
+# 3.  **Game Progression**
 
    1. The game takes place over a series of **Nights**. During a Night phase, Players may interact with one another and submit actions in their Role PM until its deadline, known as **Phase End.**
 
@@ -80,7 +90,7 @@ All Players will have access to or should be aware of these game components.
 
    5. Afterwards, the Hosts will declare a new Night, and the same process will take place until the game ends. The game will end when all players have either won, died, conceded, or can no longer fulfill their win condition.
 
-# 4 **Player Etiquette**
+# 4. **Player Etiquette**
 
    1. Don’t be a dick outside the usual confines of the game and treat others with respect. If any player feels any other player is doing so, they should contact a game or server mod. Should any player feel a Host is in violation of this rule, they should contact another Host or server mod (there will always be a server mod sitting out a given game).
 
@@ -112,7 +122,7 @@ All Players will have access to or should be aware of these game components.
 
        3. If you are a member of Graveyard, ask a moderator before you approach a living Player if you are unsure about what to say (note that even the slightest bit of tone could affect game state).
 
-# 5 **Roles** 
+# 5. **Roles** 
 
 A Role consists of the following components: Role Name, Flavor Text, Attributes, Abilities, and Win Condition (henceforth referred to as Wincon).
 
@@ -152,7 +162,7 @@ A Role consists of the following components: Role Name, Flavor Text, Attributes,
 
    7. Mods will not confirm details about any Roles or Abilities to any player unless that player has explicit proof of the existence of said Role or Ability (examples include the player’s own Role, a Role discovered through an Ability’s Night Results, and dead Roles).
 
-# 6 **Priority**
+# 6. **Priority**
 
    1. Priority denotes when Actions occur when resolved. For this game, not all Actions occur at the same time, and other actions have precedence over each other. Actions in the same priority tier are assumed to occur at the same time, unless stated otherwise. The order for this game is as follows:
 
@@ -200,7 +210,7 @@ A Role consists of the following components: Role Name, Flavor Text, Attributes,
 
    2. An ability may have multiple priorities. If this is the case, it will be stated which part of an ability occurs at what priority.
 
-# 7 **Resolution** {#resolution}
+# 7. **Resolution** {#resolution}
 
 The following *notes* are general resolution guidelines on how specific roles will interact.
 
@@ -289,4 +299,3 @@ The following *notes* are general resolution guidelines on how specific roles wi
    19. Abilities that require idling a gravedig or mimic to use them or require the ability to be idled to use a gravedig or mimic share consecutive targeting restrictions with the gravedig or mimic.
 
    20. Unless explicitly stated otherwise, successfully using an item on an alias makes them immune to the effects of items of the same name on the night immediately after. Name refers to the flavor name of the ability.
-
