@@ -1,4 +1,4 @@
-**EiMM Ruleset (2026/02/17)**
+**EiMM Ruleset (Ori .MD Version 10-6-2026)**
 
 # 1 **Rules About Rules**
 
@@ -14,33 +14,29 @@
 
 # 2 **Game Overview**
 
-## 2.1 **Objectives** 
+## 2.1 **Objectives**
 
 In a **Classic EiMM**. Players begin as free agents and will win the game if they are one of the few remaining Players to survive through it. This is achieved through a series of rounds called **Nights**, in which players coordinate actions together in order to damage and deter other players. 
 
-   1. **Sample Win Condition:** You are aligned with yourself. You win if you are part of the Final X players to survive.
+   1. **Sample Win Condition:** You win if you are part of the Final X players to survive.
 
    2. No alternate win conditions exist in this game.
 
+## 2.2. **Components**
 
+All Players will have access to or should be aware of these game components.
 
-   1. **Components:** All Players will have access to or should be aware of these components.
+   1. **Role PM:** You will have access to a group chat with the Hosts of the game, who moderate and resolve each Night. All communications between you and the Hosts take place in this chat, such as distributing your Role (see below) and submitting actions.
 
-      1. **Role PM:** You will have access to a group chat with the Hosts of the game, who moderate and resolve each Night. All communications between you and the Hosts take place in this chat, such as distributing your Role (see below) and submitting actions.
+      1. Do NOT post mod communications received in this chat to other players, such as Roles or Night results. This includes posting fake mod logs from your Role PM. See rule 4.6 for details.
 
-         1. Do NOT post mod communications received in this chat to other players, such as Roles or Night results. This includes posting fake mod logs from your Role PM. See rule 4.6 for details.
+   2. **Role:** You have a kit of powers known as a Role**.** This informs what **Abilities,** such as performable **Actions**, the player may utilize throughout the game. For further information about how Roles work see *Section 5*.
 
-      2. **Role:** You have a kit of powers known as a Role**.** This informs what **Abilities,** such as performable **Actions**, the player may utilize throughout the game. For further information about how Roles work see *Section 5*.
+   1. Each Role is assigned a starting number of **Health Points (HP).** If a player’s HP is reduced to zero or below, they are declared **Dead** and will be removed from the game. Furthermore, every role is assigned a number which represents their **Might (MT).** A player’s MT represents their damaging power, which may be referenced in actions that damage other players. 
 
-         1. Each Role is assigned a starting number of **Health Points (HP).** If a player’s HP is reduced to zero or below, they are declared **Dead** and will be removed from the game. Furthermore, every role is assigned a number which represents their **Might (MT).** A player’s MT represents their damaging power, which may be referenced in actions that damage other players. 
+   1. **Aliases:** You are assigned at least one Alias, which will conceal your identity from others in gameplay. In general, **Actions** **target Aliases, not Players.** 
 
-            1) The average HP/MT this game will be **10HP/3MT**.
-
-         2. **Create Your Own Role (CYOR)**: Players may provide a **Character** from real life or fiction when they sign-up. Hosts will use these characters as inspiration for their Role. Hosts reserve the right to request a Player to change their Character.
-
-      3. **Aliases:** You are assigned at least one Alias, which will conceal your identity from others in gameplay. In general, **Actions** **target Aliases, not Players.** 
-
-         1. A list of every existing player and alias will be disclosed on the **Player List** and **Alias List.** These lists will be posted publicly by the Hosts and will be updated each Night to reflect deaths.
+      1. A list of every existing player and alias will be disclosed on the **Player List** and **Alias List.** These lists will be posted publicly by the Hosts and will be updated each Night to reflect deaths.
 
          2. **Players may choose their own Alias** prior to game start; provided it is not inappropriate or a Host disagrees with it. 
 
@@ -84,7 +80,7 @@ In a **Classic EiMM**. Players begin as free agents and will win the game if the
 
    5. Afterwards, the Hosts will declare a new Night, and the same process will take place until the game ends. The game will end when all players have either won, died, conceded, or can no longer fulfill their win condition.
 
-# 4 **Player Etiquette** {#player-etiquette}
+# 4 **Player Etiquette**
 
    1. Don’t be a dick outside the usual confines of the game and treat others with respect. If any player feels any other player is doing so, they should contact a game or server mod. Should any player feel a Host is in violation of this rule, they should contact another Host or server mod (there will always be a server mod sitting out a given game).
 
@@ -116,15 +112,15 @@ In a **Classic EiMM**. Players begin as free agents and will win the game if the
 
        3. If you are a member of Graveyard, ask a moderator before you approach a living Player if you are unsure about what to say (note that even the slightest bit of tone could affect game state).
 
-# 5 **Roles** {#roles}
+# 5 **Roles** 
 
-   1. A Role consists of the following components: Role Name, Flavor Text, Attributes, Abilities, and Win Condition (henceforth referred to as Wincon).
+A Role consists of the following components: Role Name, Flavor Text, Attributes, Abilities, and Win Condition (henceforth referred to as Wincon).
 
-   2. A **Role Name** is the character or concept off which the Role is based. A Role’s Abilities will be thematically based on its Role Name to some degree.
+   1. A **Role Name** is the character or concept off which the Role is based. A Role’s Abilities will be thematically based on its Role Name to some degree.
 
-   3. **Flavor Text** is a short blurb or bio offering backstory on a Role’s Role Name. It serves no actual game purpose except to inspire role creation for Hosts.
+   2. **Flavor Text** is a short blurb or bio offering backstory on a Role’s Role Name. It serves no actual game purpose except to inspire role creation for Hosts.
 
-   4. An **Attribute** is a numerical value which defines an inherent value of the player’s role, such as their health or damaging power. This game uses an *HP system* in order to determine when players die. 
+   3. An **Attribute** is a numerical value which defines an inherent value of the player’s role, such as their health or damaging power. This game uses an *HP system* in order to determine when players die. 
 
       1. Each player will have an assigned number of Hit Points (HP) and Might (MT) as a part of their role attributes.
 
@@ -134,31 +130,29 @@ In a **Classic EiMM**. Players begin as free agents and will win the game if the
 
       2. Some Abilities may rely on a player's MT or HP values, while others may rely on unique values. The amount of damage a player's ability deals will always be noted within the ability paragraph, if applicable.
 
-   5. An **Ability** is an inherent power which the Player may use to interact with the game. It consists of three components: Name, Tags, Description. An Ability’s Name is how it will be referred to in all official mod communications. An Ability’s Tags refers to the mechanics behind the Ability’s use. An Ability’s Description describes its effect.
+   An **Ability** is an inherent power which the Player may use to interact with the game. It consists of three components: Name, Tags, Description. An Ability’s Name is how it will be referred to in all official mod communications. An Ability’s Tags refers to the mechanics behind the Ability’s use. An Ability’s Description describes its effect.
 
-      1. Abilities are divided into the following subtypes: Passive, Active, and Standard.
+      3. Abilities are divided into the following subtypes: Passive, Active, and Standard.
 
-      2. **Passive Abilities** define how the Role passively interacts with other Roles, Abilities, or the game state as a whole. Unless otherwise specified, Passive Abilities are considered live during all stages of all nights and cannot be disabled except through the use of an outside Ability.
+      4. **Passive Abilities** define how the Role passively interacts with other Roles, Abilities, or the game state as a whole. Unless otherwise specified, Passive Abilities are considered live during all stages of all nights and cannot be disabled except through the use of an outside Ability.
 
-      3. **Active Abilities** are abilities that can be used once each night to achieve a described effect. An Active Ability pulls from a pool of action tags which define how they are utilized; the full tag naming conventions can be found in the **Glossary** at the bottom of this page. Active abilities will also be classified by **Priority** (See Section 7\) which defines at what order this action will be performed during Resolution.
+      5. **Active Abilities** are abilities that can be used once each night to achieve a described effect. An Active Ability pulls from a pool of action tags which define how they are utilized; the full tag naming conventions can be found in the **Glossary** at the bottom of this page. Active abilities will also be classified by **Priority** (See Section 7\) which defines at what order this action will be performed during Resolution.
 
          1. When the term “ability” is used on its own without other qualifiers, assume it returns to this.
 
-      4. **Standard Abilities** refers to an ability that is universal to all players.
+      6. **Standard Abilities** refers to an ability that is universal to all players.
 
          1. The only standard ability in this game is a standard damaging action known as a **Standard Shot**, which will inflict the player’s MT worth of damage to the indicated target.	
 
-   6. The term “Actions” refers to both Active Abilities and Standard Shots. That is, it is all actionable Abilities, which excludes Passives.
+   4. The term “Actions” refers to both Active Abilities and Standard Shots. That is, it is all actionable Abilities, which excludes Passives.
 
-   7. Each player’s **Wincon** describes the conditions they must meet in order to be declared a winner.
+   5. Each player’s **Wincon** describes the conditions they must meet in order to be declared a winner.
 
-   8. Each Role in the game is intended to have a roughly equal chance of winning. The mods reserve the right to **hotfix** until the end of Night 1 any role which does not work as intended or is too imbalanced in either direction. After this window, all roles will be considered immutable for balance purposes, but wording, functional, etc. errors are fair game.
+   6. Each Role in the game is intended to have a roughly equal chance of winning. The mods reserve the right to **hotfix** until the end of Night 1 any role which does not work as intended or is too imbalanced in either direction. After this window, all roles will be considered immutable for balance purposes, but wording, functional, etc. errors are fair game.
 
-   9. Mods will not confirm details about any Roles or Abilities to any player unless that player has explicit proof of the existence of said Role or Ability (examples include the player’s own Role, a Role discovered through an Ability’s Night Results, and dead Roles).
+   7. Mods will not confirm details about any Roles or Abilities to any player unless that player has explicit proof of the existence of said Role or Ability (examples include the player’s own Role, a Role discovered through an Ability’s Night Results, and dead Roles).
 
-   
-
-6) # **Priority** {#priority}
+# 6 **Priority**
 
    1. Priority denotes when Actions occur when resolved. For this game, not all Actions occur at the same time, and other actions have precedence over each other. Actions in the same priority tier are assumed to occur at the same time, unless stated otherwise. The order for this game is as follows:
 
@@ -206,11 +200,11 @@ In a **Classic EiMM**. Players begin as free agents and will win the game if the
 
    2. An ability may have multiple priorities. If this is the case, it will be stated which part of an ability occurs at what priority.
 
-7) # **Resolution** {#resolution}
+# 7 **Resolution** {#resolution}
 
-   1. The following *notes* are general resolution guidelines on how specific roles will interact.
+The following *notes* are general resolution guidelines on how specific roles will interact.
 
-   2. All targeting Abilities **visit** their target. Any Ability that visits will trigger visit-related Abilities (i.e. Interceptor) as well as show up on Investigative reports unless an external modifier prevents this.
+   1. All targeting Abilities **visit** their target. Any Ability that visits will trigger visit-related Abilities (i.e. Interceptor) as well as show up on Investigative reports unless an external modifier prevents this.
 
       1. There are some notable exceptions to this: Hijackers are not treated as targeting their second target, the person they are redirecting the ability to. Roles that require predictions (e.g., prophets) will not be treated as targeting. Other exceptions will be stated in Role PMs.
 
@@ -218,25 +212,25 @@ In a **Classic EiMM**. Players begin as free agents and will win the game if the
 
       3. Reflexive roles do not Visit.
 
-   3. There may be Abilities that negate the intended purpose of other Abilities without causing those Abilities to explicitly fail.
+   2. There may be Abilities that negate the intended purpose of other Abilities without causing those Abilities to explicitly fail.
 
       1. For example, being Strongwilled (unaffected by Disruptive actions) will not cause a Disruptive action performed on you to fail. Similarly, a Protective ability will prevent damage but it will not cause the actions that cause the damage to fail; that is, the player causing the damage would still receive a success message for their actions.
 
-   4. In the case of an ability with multiple targets, if the ability fails on only some of its targets, the ability resolves as if it was successful and only targeted the other targets.
+   3. In the case of an ability with multiple targets, if the ability fails on only some of its targets, the ability resolves as if it was successful and only targeted the other targets.
 
       1. If this would cause the ability to have no effect, the ability fails entirely.
 
-   5. An X-Shot/limited use ability that fails due to external reasons does not count as being used, and may be used in future nights.
+   4. An X-Shot/limited use ability that fails due to external reasons does not count as being used, and may be used in future nights.
 
-   6. If a player dies and still has additional actions to perform, they will not occur.
+   5. If a player dies and still has additional actions to perform, they will not occur.
 
       1. For example, a player that dies at the Damaging priority will not have any of their actions that occur at Next Night Modifier or Investigative occur.
 
       2. Dead players (and NPCs) do not receive results.
 
-   7. You may not submit actions on dead aliases from a previous Night unless your role states you can; if, during resolution, your action would target a dead person because they have died earlier in the priority hierarchy or on a previous night (due to delay, etc.), your action would succeed, however the target will still remain dead.
+   6. You may not submit actions on dead aliases from a previous Night unless your role states you can; if, during resolution, your action would target a dead person because they have died earlier in the priority hierarchy or on a previous night (due to delay, etc.), your action would succeed, however the target will still remain dead.
 
-   8. All Active Abilities cannot be submitted on the same alias they succeeded on the previous night, unless stated otherwise. *(This is commonly known as the consecutive targeting rule.)*
+   7. All Active Abilities cannot be submitted on the same alias they succeeded on the previous night, unless stated otherwise. *(This is commonly known as the consecutive targeting rule.)*
 
       1. If your Ability fails or was redirected away from your original submission, you may repeat that submitted target without penalty.
 
@@ -244,19 +238,19 @@ In a **Classic EiMM**. Players begin as free agents and will win the game if the
 
       3. If a Targeted Ability is delayed, the same Ability cannot be used on the same target that night. This means that if an ability is delayed on Night X, and successfully resolves on Night X+1, the target of that Ability is next an eligible target during Night X+3.
 
-   9. Ability Motivators, or any variants of the role, can only act once per night.
+   8. Ability Motivators, or any variants of the role, can only act once per night.
 
-   10. A healing action cannot successfully heal an alias for more than 4 HP throughout the entire game.
+   9.  A healing action cannot successfully heal an alias for more than 4 HP throughout the entire game.
 
-   11. Single-use components of Unlimited/Cycling roles (such as being able to self-target once) cannot be copied in any way (such as Gravedigger or Mimic).
+   10. Single-use components of Unlimited/Cycling roles (such as being able to self-target once) cannot be copied in any way (such as Gravedigger or Mimic).
 
-   12. Some roles have NPCs associated with them. When such roles die, their NPCs also immediately count as dying, even if they never reached zero HP through violent means.
+   11. Some roles have NPCs associated with them. When such roles die, their NPCs also immediately count as dying, even if they never reached zero HP through violent means.
 
        1. If a rolecop targets an NPC, they learn the NPC’s starting statistics and any abilities they have outside of a standard shot. Rolecops do not learn who controls the NPC.
 
        2. If an NPC leaves the game because their owner dies, it will be announced in public (including the identity of the owner).
 
-   13. Actions during resolution (“in-flight actions”) are composed of the base action (the action in the role PM itself) and a collection of modifiers (anything applied by an external effect). These modifiers are only processed when it comes time to resolve the action itself.
+   12. Actions during resolution (“in-flight actions”) are composed of the base action (the action in the role PM itself) and a collection of modifiers (anything applied by an external effect). These modifiers are only processed when it comes time to resolve the action itself.
 
        1. This means that the success or failure of an action is determined at the time at which it would be resolved, as opposed to at the time at which an action that causes it to fail is resolved.
 
@@ -270,11 +264,11 @@ In a **Classic EiMM**. Players begin as free agents and will win the game if the
 
           1. Priority-raising modifications, which must take effect immediately. However, these are frowned on.
 
-   14. Some actions apply effects to other actions (e.g., blocks, hijacks, empowers \- most are disruptive). These effects are applied at the time the action they are affecting is resolved, and are applied in the following order:   
-1. Empower \> Replacement \> Block \> Redirect \> Delay \> Mediation  
-2. Conditionals (e.g., mediating abilities, or a beneficial action block) are evaluated at this time as well.
+   13. Some actions apply effects to other actions (e.g., blocks, hijacks, empowers \- most are disruptive). These effects are applied at the time the action they are affecting is resolved, and are applied in the following order: Empower \> Replacement \> Block \> Redirect \> Delay \> Mediation  
 
-   15. Protective actions, such as X MT Doctors, increase the amount of total protection on their target for the duration of the night phase.
+       1.  Conditionals (e.g., mediating abilities, or a beneficial action block) are evaluated at this time as well.
+
+   14. Protective actions, such as X MT Doctors, increase the amount of total protection on their target for the duration of the night phase.
 
        1. When calculating HP loss, the target loses HP equal to total Strongman damage \+ (total non-Strongman damage \- total Protection). Afterwards, the target's remaining Protection becomes equal to total Protection \- damage prevented. 
 
@@ -284,42 +278,15 @@ In a **Classic EiMM**. Players begin as free agents and will win the game if the
 
        4. Damage loses sourcing context after protection is applied. It is mechanically impossible to tell which player dealt which damage to another, and generally they are credited as having damaged their target if *any* damage went through.
 
-   16. Conditional effects, such as Loveriser damage, are resolved at the end of the priority they were triggered.
+   15. Conditional effects, such as Loveriser damage, are resolved at the end of the priority they were triggered.
 
-   17. Passive abilities that apply an action to the target of a standard shot are considered separately submitted abilities and are treated as such
+   16. Passive abilities that apply an action to the target of a standard shot are considered separately submitted abilities and are treated as such
 
-   18. Items must be used the night they are received if the wording of the role does not state otherwise.
+   17. Items must be used the night they are received if the wording of the role does not state otherwise.
 
-   19. Two replacement modifiers on the same action will cause the action to fail if they do not replace the action with the exact same effect. 
+   18. Two replacement modifiers on the same action will cause the action to fail if they do not replace the action with the exact same effect. 
 
-   20. Abilities that require idling a gravedig or mimic to use them or require the ability to be idled to use a gravedig or mimic share consecutive targeting restrictions with the gravedig or mimic.
+   19. Abilities that require idling a gravedig or mimic to use them or require the ability to be idled to use a gravedig or mimic share consecutive targeting restrictions with the gravedig or mimic.
 
-   21. Unless explicitly stated otherwise, successfully using an item on an alias makes them immune to the effects of items of the same name on the night immediately after. Name refers to the flavor name of the ability.
+   20. Unless explicitly stated otherwise, successfully using an item on an alias makes them immune to the effects of items of the same name on the night immediately after. Name refers to the flavor name of the ability.
 
-# **Glossary of Basic Roles and Tags** {#glossary-of-basic-roles-and-tags}
-
-- Please see the [Codex](https://docs.google.com/document/d/e/2PACX-1vRnqBfsCo71fDEZNVJh13gxeoq0whV4dP7wbLaBt2sOzYgMlY5_fGf45rsUSMD-QC20Epe8oloNddO3/pub) for further information on roles.
-
-- The following Tags are present in this game, if a tag appears in the game which is not mentioned below, please inquire with your hosts for additional information:
-
-  - **Frequency:** An action may have a limited or unlimited amount of uses throughout the game. The following tags inform the frequency of an action:
-
-    - **Unlimited:** Action may be used once every night, over the course of the entire game.
-
-    - **Cycling:** A collection of actions will be provided to the player. One of these actions may be used once every night, but cannot be used again until all other actions are used, or “cycled” throughout the game.
-
-    - **Varies:** This action is only available to use when a specified condition is met, noted in its description.
-
-    - **x-Shot:** This action may be used once each night, for a predetermined number of uses. Example: a 1-Shot may only be used once throughout the whole game.
-
-  - **Targeting:** An action may require the player to input a predetermined number of targets (usually Aliases) in order to be activated:
-
-    - **Targeted:** A player must target x amount of existing Aliases in order to use this action. Unless otherwise stated by the Ability, an ability may not be submitted on any alias controlled by the submitter or on a dead alias
-
-    - **Non-targeted:** This action does not require an Alias to be targeted in order to be activated.
-
-  - **Effect:** An action or passive may refer to specific types of abilities and the effects they produce. The following tags below denote which type of effects an ability produces for resolution purposes.
-
-    - **B (Beneficial) / H (Harmful) / N (Neutral)**
-
-  - **Block:** Cause another action to fail.
